@@ -1,0 +1,8 @@
+E:\С#\Geek\HW1\Lesson1\ConsoleApp1\obj\Debug\HW1.csproj.AssemblyReference.cache
+E:\С#\Geek\HW1\Lesson1\ConsoleApp1\obj\Debug\HW1.csproj.SuggestedBindingRedirects.cache
+E:\С#\Geek\HW1\Lesson1\ConsoleApp1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+E:\С#\Geek\HW1\Lesson1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\С#\Geek\HW1\Lesson1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\С#\Geek\HW1\Lesson1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\С#\Geek\HW1\Lesson1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\С#\Geek\HW1\Lesson1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
